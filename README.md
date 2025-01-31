@@ -1,4 +1,4 @@
-# TCL
+#  True Care Life (TCL)
 Centralized Vaccination Management System
 
 # Project Type
@@ -26,4 +26,4 @@ Helps users locate nearby vaccination centers for convenience.
 ### Insights and Analytics:
 Delivers valuable insights, such as upcoming vaccine schedules and reminders.
 
-The system was designed to enhance accessibility and efficiency, ensuring long-term usability with secure data storage. It demonstrates expertise in building dynamic websites and integrating database functionalities to solve real-world problems.
+#### The system was designed to enhance accessibility and efficiency, ensuring long-term usability with secure data storage. It demonstrates expertise in building dynamic websites and integrating database functionalities to solve real-world problems.
